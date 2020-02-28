@@ -4,8 +4,7 @@ let vm = new Vue({
     title: "Simple Interest Calculator",
     principal: 0,
     rate: 0,
-    time: 0,
-    error: false
+    time: 0
   },
   methods: {},
   computed: {
